@@ -1,0 +1,16 @@
+E:\InterviewTasks\saqaya\User_WebAPI\UserAPI\Application\bin\Debug\net6.0\Application.deps.json
+E:\InterviewTasks\saqaya\User_WebAPI\UserAPI\Application\bin\Debug\net6.0\Application.dll
+E:\InterviewTasks\saqaya\User_WebAPI\UserAPI\Application\bin\Debug\net6.0\ref\Application.dll
+E:\InterviewTasks\saqaya\User_WebAPI\UserAPI\Application\bin\Debug\net6.0\Application.pdb
+E:\InterviewTasks\saqaya\User_WebAPI\UserAPI\Application\bin\Debug\net6.0\Domain.dll
+E:\InterviewTasks\saqaya\User_WebAPI\UserAPI\Application\bin\Debug\net6.0\Domain.pdb
+E:\InterviewTasks\saqaya\User_WebAPI\UserAPI\Application\obj\Debug\net6.0\Application.GlobalUsings.g.cs
+E:\InterviewTasks\saqaya\User_WebAPI\UserAPI\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+E:\InterviewTasks\saqaya\User_WebAPI\UserAPI\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\InterviewTasks\saqaya\User_WebAPI\UserAPI\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+E:\InterviewTasks\saqaya\User_WebAPI\UserAPI\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+E:\InterviewTasks\saqaya\User_WebAPI\UserAPI\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+E:\InterviewTasks\saqaya\User_WebAPI\UserAPI\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+E:\InterviewTasks\saqaya\User_WebAPI\UserAPI\Application\obj\Debug\net6.0\Application.dll
+E:\InterviewTasks\saqaya\User_WebAPI\UserAPI\Application\obj\Debug\net6.0\ref\Application.dll
+E:\InterviewTasks\saqaya\User_WebAPI\UserAPI\Application\obj\Debug\net6.0\Application.pdb
